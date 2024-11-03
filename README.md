@@ -4,7 +4,7 @@
 Jaqueline Martins - RM551744 - DevOps & Cloud Computing <br>
 Mariana Bastos    - RM97510  - Java Advanced <br>
 Matheus Oliveira  - RM551155 - Mobile Development/Database <br>
-Victor Freitas    - RM99928  - Advanced Business with C#/Quality Assurance<br>
+Victor Freitas    - RM99982  - Advanced Business with C#/Quality Assurance<br>
 Breno Giacoppini  - RM98695  - Artificial Intelligence <br>
 
 ## PROPOSTA DE SOLUÇÃO
